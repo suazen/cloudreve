@@ -1,1 +1,1 @@
-FROM docker pull xavierniu/cloudreve:latest
+FROM xavierniu/cloudreve:latest
